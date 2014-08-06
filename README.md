@@ -1,4 +1,4 @@
 Summer-Coding-Lessons
 =====================
 
-Repository for the things we do dyring the summer coding lessons.
+Repository for the things we do during the summer coding lessons.
